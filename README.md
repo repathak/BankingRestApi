@@ -2,31 +2,6 @@
 ### Fork and Star ⭐ Github Repo For New Feature Update
 
 
-<div style="display: flex;">
-    <!-- GitHub Repository Badges -->
-    <a href="https://github.com/abhi9720/BankingPortal-UI" target="_blank">
-      <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-UI%20Repo-blue.svg?style=flat-square">
-    </a>
-    <a href="https://github.com/abhi9720/BankingPortal-API" target="_blank">
-      <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-API%20Repo-blue.svg?style=flat-square">
-    </a>
-   <a href="https://github.com/abhi9720/BankingPortal-APIe" target="_blank">
-      <img alt="View" src="https://img.shields.io/badge/View-blue.svg?style=flat-square">
-    </a>
-  </div>
-
-  ## API Documentation
-- https://github.com/abhi9720/BankingPortal-API/wiki
-
-## Banking Portal UI
-- https://github.com/abhi9720/BankingPortal-UI
-  
-<img width="948" alt="image" src="https://github.com/abhi9720/BankingPortal-API/assets/68281476/237694d9-6e8d-48e8-a7a2-982b9f8ca671">
-
-
-
-***
-
 The Banking Portal API provides a set of endpoints for managing user accounts, fund transfers, and transactions. This project aims to facilitate secure and efficient banking operations for users.
 
 ## Features
@@ -122,10 +97,6 @@ We welcome and encourage developers to contribute to the project and help us mak
 👉🏻**Create a Pull Request**: Go to your forked repository on GitHub, and you'll see a "Compare & Pull Request" button. Click on it to create a new pull request.
 
 👉🏻**Wait for Review**: Your pull request will be reviewed by the project maintainers. Make any necessary changes based on their feedback.
-
-**👏🏻👏🏻 Congratulations! 🎉🎊** Your contribution has been accepted and merged into the main repository. You are now a contributor to the project.
-
----
 
 ## sample Application.properties file
 ```
